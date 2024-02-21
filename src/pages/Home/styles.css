@@ -1,0 +1,68 @@
+.content {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.background {
+    margin-top: 1.5rem;
+    height: 80vh;
+    position: absolute;
+    left: 0;
+}
+
+.informations {
+    margin: .3rem;
+    width: 60%;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.informations input {
+    padding: .4rem 1rem;
+    width: 90%;
+    color: #fff;
+    margin-right: .8rem;
+    border: 1px solid #999999;
+    border-radius: 1rem;
+    background-color: transparent;
+    font-family: 'Open Sans';
+    cursor: pointer;
+}
+
+.informations button {
+    border: 1px solid #999999;
+    border-radius: 1rem;
+    background-color: #2D333B;
+    font-family: 'Open Sans';
+    color: #fff;
+    padding: .4rem .5rem;
+}
+
+.informations .perfil {
+    margin: 1.2rem;
+    display: flex;
+    color: #999999;
+}
+
+.informations .perfil .profile {
+    width: 11rem;
+    height: 11rem;
+    background-color: #fff;
+    margin: .5rem 2rem;
+    border-radius: 50%;
+}
+
+.perfil h2 {
+    margin: .5rem 1rem 0 0;
+}
+
+.perfil span p {
+    margin-bottom: 1rem;
+    font-size: 10pt;
+}
+
+div.content div h3 {
+    margin: 1rem;
+}

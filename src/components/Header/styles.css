@@ -1,0 +1,12 @@
+header {
+    background-color: #2D333B;   
+    color: #fff;
+    width: 100vw;
+    padding: .5rem;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25pt;
+}

@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+    --corFundo: #1D2128;
+    --corTextoMain: #fffe;
+}
+
+body {
+    background-color: var(--corFundo);
+    color: var(--corTextoMain);
+    overflow-x: hidden;
+}
+
+hr {
+    border: 1.5px solid #2f3133;
+}

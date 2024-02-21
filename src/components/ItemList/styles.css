@@ -1,0 +1,17 @@
+div.itemList {
+    color: #539BF0;
+    font-size: 18pt;
+    /* text-decoration: underline;  */
+}
+
+
+div.itemList p {
+    color: #999999;
+    font-size: 11pt;
+    margin-bottom: 1.2rem;
+}
+
+div.itemList b a {
+    color: #539BF0;
+    text-decoration: none;
+}
